@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConsApp list_genirics 14", "ConsApp list_genirics 14\ConsApp list_genirics 14.vbproj", "{82459F02-3753-49A4-84C0-8D5649F408B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82459F02-3753-49A4-84C0-8D5649F408B6}.Debug|x86.ActiveCfg = Debug|x86
+		{82459F02-3753-49A4-84C0-8D5649F408B6}.Debug|x86.Build.0 = Debug|x86
+		{82459F02-3753-49A4-84C0-8D5649F408B6}.Release|x86.ActiveCfg = Release|x86
+		{82459F02-3753-49A4-84C0-8D5649F408B6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
